@@ -6,7 +6,7 @@ Welcome to my LeetCode-like solutions repository! Here you'll find my solutions 
 
 ## Table of Contents 📋
 
-- [Introduction](#introduction)
+- [Introduction](#Introduction)
 - [Folder Structure](#folder-structure)
 - [How to Use](#how-to-use)
 - [Contribution](#contribution)
@@ -44,6 +44,6 @@ If you'd like to contribute or provide better solutions, follow these steps:
 
 Let's connect! Feel free to reach out for discussions, feedback, or just to say hi.
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/avneet-ahuja-9aa686215/)
+- LinkedIn: [Avneet Ahuja](https://www.linkedin.com/in/avneet-ahuja-9aa686215/)
 
 
