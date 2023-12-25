@@ -9,9 +9,6 @@ Input: nums = [12, -1, -7, 8, -15, 30, 16, 28], k = 3
 Output: [-1, -1, -7, -15, -15, 0]
 Explanation: The first negative integer in each window of size 3 is [-1, -1, -7, -15, -15, 0].
 
-markdown
-Copy code
-
 ## Approach 🛠️
 
 I've used a Python class-based solution to find the first negative integer in each sliding window.
