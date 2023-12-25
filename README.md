@@ -6,23 +6,23 @@ Welcome to my LeetCode-like solutions repository! Here you'll find my solutions 
 
 ## Table of Contents 📋
 
-- [Introduction](#Introduction)
+- [Introduction](#introduction)
 - [Folder Structure](#folder-structure)
 - [How to Use](#how-to-use)
 - [Contribution](#contribution)
 - [Connect with Me](#connect-with-me)
 
-## Introduction 🌟
+## Introduction 🌟 <a name="introduction"></a>
 
 This repository serves as my personal record of solutions and a way to share knowledge with the community.
 
 Feel free to explore and learn from my solutions. If you have suggestions for improvements or alternative solutions, I'd love to hear them!
 
-## Folder Structure 📂
+## Folder Structure 📂 <a name="folder-structure"></a>
 
 I have organized this repo by problem topics which contain individual problems organized by their titles. Each problem has its dedicated folder containing the solution files and a README with problem description and approach.
 
-## How to Use 🚦
+## How to Use 🚦 <a name="how-to-use"></a>
 
 1. Navigate to the problem folder you are interested in.
 2. Review the problem description in the README.
@@ -31,7 +31,7 @@ I have organized this repo by problem topics which contain individual problems o
 
 Happy coding! 🚀
 
-## Contribution 🤝
+## Contribution 🤝 <a name="contribution"></a>
 
 If you'd like to contribute or provide better solutions, follow these steps:
 
@@ -40,7 +40,7 @@ If you'd like to contribute or provide better solutions, follow these steps:
 3. Make your changes and submit a pull request.
 4. Feel the joy of collaboration! 🎉
 
-## Connect with Me 🌐
+## Connect with Me 🌐 <a name="connect-with-me"></a>
 
 Let's connect! Feel free to reach out for discussions, feedback, or just to say hi.
 
