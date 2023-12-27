@@ -1,4 +1,4 @@
-# Three Sum 3️⃣🏥
+# 3Sum 3️⃣🏥
 
 ## Problem Statement
 
