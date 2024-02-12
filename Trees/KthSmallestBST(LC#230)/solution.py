@@ -12,7 +12,13 @@ class Solution:
             if not node:
                 return
             inOrder(node.left)
+            
+            if len(self.res)==k:
+                return
             self.res.append(node.val)
             inOrder(node.right)
         inOrder(root)
-        return self.res[k-1]
+        # print(self.res)
+        return self.res[-1]
+        
+        
