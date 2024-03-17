@@ -1,4 +1,4 @@
-# LeetCode Solutions (Counter: 115) 🚀
+# LeetCode Solutions (Counter: 116) 🚀
 
 Hello! 
 
